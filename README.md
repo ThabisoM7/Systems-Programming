@@ -18,6 +18,4 @@ Experiments with file handling, process creation, and network sockets.
 
 Memory management exercises (malloc, free, pointers).
 
-Practice projects to get closer to “how the machine really works.”
-
-This repo is not a polished product — it’s my playground for learning, breaking things, and figuring out how systems work under the hood.
+This repo is not a polished product — it’s my playground for learning, breaking things, and figuring out how things work under the hood.
