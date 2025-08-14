@@ -1,6 +1,6 @@
-# Systems-Programming
+# Systems-Programming-Lab
 
-This is my personal lab where I practice systems programming — the low-level, nuts-and-bolts side of software development.
+This is my personal lab where I sharpen my systems programming — the low-level, nuts-and-bolts side of software development.
 
 The goal of this lab is to sharpen my skills in:
 
