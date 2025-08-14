@@ -10,6 +10,8 @@ Working with memory, files, processes, and system calls.
 
 Building small but powerful tools in C/C++ (and maybe a bit of assembly).
 
+Using PowerShell scripting to automate tasks, analyze systems, and create my own utilities.
+
 Here you’ll find:
 
 Experiments with file handling, process creation, and network sockets.
