@@ -1,0 +1,55 @@
+Pointers - Variables that store adress of another variable
+
+We have an Address of an integer A that allocates 4 bytes.
+We have P that can store the address of A.
+Using operators of P we can reach A.
+We can also modify P to point to another integer.
+//
+int A
+int *P;
+P = &a (The "&" is p refering A);
+
+P is the address 
+*P is the value at the address
+//
+
+pointer variables are strongly typed
+(meaning pointers need to be of a type)
+
+Why strong types?
+We do not use pointer values to only store variable addresses
+but also to dereference/modify value.
+
+int - 4 bytes
+char - 1 byte
+float - 4 bytes
+
+Pointer to Pointer
+
+We can store a pointer that points to another pointer
+
+#include<stdio.h>
+int main()
+{
+    int x = 5;
+    int* p = &x;
+    *p = 6;
+    int** q = &p;
+    int *** r = &q;
+
+    printf("%d\n", *p); //6
+
+    printf("%d\n", *q); //Address stored at value p.
+
+    printf("%d\n",*(*q)); //6
+
+    printf("%d\n",*(*r));
+
+    printf("%d\n",*(*(*r)));
+
+}
+
+the variable X is of type integer/ = 5.
+we create a pointer to X of type integer.
+we create a pointer to a pointer (q) of type integer.
+we create a pointer to a pointer (r) of type integer
