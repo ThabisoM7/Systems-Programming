@@ -12,6 +12,10 @@ Building small but powerful tools in C/C++ (and maybe a bit of assembly).
 
 Using PowerShell scripting to automate tasks, analyze systems, and create my own utilities.
 
+---------------------------------------------------------------------------------------------------------------
+
+Soon we will inolve more C++ to be able to talk under the hood a little more
+
 In here you’ll find:
 
 Experiments with file handling, process creation, and network sockets.
@@ -19,3 +23,5 @@ Experiments with file handling, process creation, and network sockets.
 Memory management exercises (malloc, free, pointers).
 
 This repo is not a polished product — it’s my playground for learning, breaking things, and figuring out how things work under the hood.
+
+
