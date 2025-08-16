@@ -2,6 +2,8 @@
 
 This is my personal lab where I sharpen my systems programming — the low-level, nuts-and-bolts side of software development.
 
+-------------------------------------------------------------------------------------------------------------
+
 The goal of this lab is to sharpen my skills in:
 
 Writing programs that interact directly with the operating system.
@@ -14,7 +16,7 @@ Using PowerShell scripting to automate tasks, analyze systems, and create my own
 
 ---------------------------------------------------------------------------------------------------------------
 
-Soon we will inolve more C++ and C#(WINDOWS) to be able to talk under the hood a little more
+Soon we will inolve more C++ and C#(WINDOWS) to be able to talk penetrate under the little more
 
 In here you’ll find:
 
