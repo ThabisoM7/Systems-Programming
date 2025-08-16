@@ -16,7 +16,7 @@ Using PowerShell scripting to automate tasks, analyze systems, and create my own
 
 ---------------------------------------------------------------------------------------------------------------
 
-Soon we will inolve more C++ and C#(WINDOWS) to be able to talk penetrate under the little more
+Soon we will inolve more C++ and C#(WINDOWS) to be able to talk/penetrate under the hood a little more
 
 In here you’ll find:
 
